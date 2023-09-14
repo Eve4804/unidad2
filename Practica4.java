@@ -21,7 +21,8 @@ public class Practica4 {
         double totale = peso/ euro;
         
        System.out.println("Tu cantidad en dolares es " + totald + " y tu cantidad en euro es " +totale);
-       
+       moneda.close();
+        
         
         
         
